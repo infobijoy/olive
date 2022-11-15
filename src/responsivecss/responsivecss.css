@@ -1,0 +1,120 @@
+@media (max-width: 992px) {
+  hr {
+    display: none;
+  }
+  .multi-selector2 {
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 14px !important;
+    z-index: 1;
+    padding: 20px 11px 10px 11px !important;
+  }
+  .multi-selector {
+    padding: 21px 20px 5px 20px !important;
+    background: white;
+    margin-top: 14px;
+    float: left;
+    position: absolute;
+    margin-top: 24px;
+    width: 100px;
+  }
+  .items {
+    width: 832px !important;
+    margin-left: 0px !important;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    background: white;
+    text-align: center;
+    margin-top: 106px !important;
+  }
+  .bodycontent {
+    width: 100% !important;
+  }
+  .dropdown {
+    width: 265px;
+    height: unset !important;
+    float: left;
+    margin-right: 10px;
+  }
+  .task {
+    color: #64626a;
+    width: 140px;
+  }
+}
+@media (max-width: 817px) {
+  header h1 {
+    font-size: 28px;
+    margin-left: 10px;
+  }
+  header p {
+    margin-top: 2px;
+    font-size: 14px;
+    margin-left: 10px;
+  }
+  .nav ul li {
+    font-size: 14px;
+    padding: 5px 10px;
+    display: flex;
+    margin-right: 9px;
+  }
+  header {
+    width: 820px !important;
+    margin: auto;
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 17px !important;
+  }
+  .nav {
+    display: flow-root;
+    background: white;
+    position: unset;
+    padding: 29px 0px;
+    box-shadow: 0px 17px 25px rgb(0 0 0 / 7%);
+    margin-top: 12px !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+  }
+  .items {
+    width: 839px !important;
+  }
+}
+@media (max-width: 651px) {
+  .items {
+    width: 560px !important;
+  }
+}
+@media (max-width: 560px) {
+  header {
+    width: 560px !important;
+  }
+  header h1 {
+    width: 560px;
+  }
+  .nav {
+    width: 560px;
+  }
+  .nav ul li {
+    float: none;
+    width: 166px;
+    float: none !important;
+  }
+  ul.refresh {
+    float: right;
+    background: #1dbf73;
+    margin-right: 69px;
+    width: 191px;
+    margin-top: -124px;
+  }
+  header h1 {
+    font-size: 27px !important;
+    color: #1dbf73;
+  }
+  .review {
+    width: 100px;
+  }
+  .numbering {
+    margin: auto;
+    width: 540px !important;
+  }
+}
